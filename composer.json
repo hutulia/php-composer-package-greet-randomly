@@ -4,5 +4,6 @@
     "psr-4": {
       "Hutulia\\GreetRandomly\\": "src/"
     }
-  }
+  },
+  "license": null
 }
