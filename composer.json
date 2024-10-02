@@ -1,0 +1,8 @@
+{
+  "name": "hutulia/greet-randomly",
+  "autoload": {
+    "psr-4": {
+      "Hutulia\\GreetRandomly\\": "src/"
+    }
+  }
+}
